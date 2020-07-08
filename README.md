@@ -1,10 +1,12 @@
-## Welcome to GitHub Pages
+## I am working on something
 
 You can use the [editor on GitHub](https://github.com/maddmoon/pluginpractice/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Honestly I don't know what I'm doing
+
+If you want to talk to me about what I'm doing you can contact me on Discord! My discord is maddie doggo#4804
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
